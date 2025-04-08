@@ -6,12 +6,12 @@ Traditional collaborative filtering methods overlook user trust and the contextu
 
 # Dataset used 
 We’ve used the amazon data: https://jmcauley.ucsd.edu/data/amazon/index_2014.html, where we focused mainly on “Cell Phones and Accessories”. We divided the dataset and worked on it individually in the following manner : 
-	1-188073 :  Anisha Mishare 
-  	188074 -376147 : Ankita Satapathy
-  	376148- 564221 : Asipu Khitesha
-  	564222-752295 : Barsha Baibhabi
-  	752296 - 940369 : Barsha Sahoo 
-  	940370- 1128437 : Vanshika Raghuvanshi
+	1-188073 :  Anisha Mishra\
+  	188074 -376147 : Ankita Satapathy\
+  	376148- 564221 : Asipu Khitesha\
+  	564222-752295 : Barsha Baibhabi\
+  	752296 - 940369 : Barsha Sahoo\ 
+  	940370- 1128437 : Vanshika Raghuvanshi\
   
 # Requirements
 Ensure the following libraries are available:
@@ -27,11 +27,11 @@ Ensure the following libraries are available:
   
 # Repository Structure
 SmartSuggest
-├── SmartSuggest.ipynb             # Main pipeline integrating all features and metrics
-├── SVD_and_HitRatio.ipynb         # SVD implementation and Hit Ratio evaluation
-├── reliability_scores.csv         # Precomputed reliability scores per user
-├── final_scores1.csv              # Has final score calculation based on clustering coefficient and the reliability scores.
-├── README.md                      # This file
+├── SmartSuggest.ipynb             # Main pipeline integrating all features and metrics\
+├── SVD_and_HitRatio.ipynb         # SVD implementation and Hit Ratio evaluation\
+├── reliability_scores.csv         # Precomputed reliability scores per user\
+├── final_scores1.csv              # Has final score calculation based on clustering coefficient and the reliability scores\
+├── README.md                      # This file\
 
 # Features
 1. Hybrid Recommendation Model combining:
