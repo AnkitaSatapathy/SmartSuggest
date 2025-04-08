@@ -26,7 +26,7 @@ Ensure the following libraries are available:
 - Start by executing SVD_and_HitRatio.ipynb to compute baseline SVD predictions and Hit Ratio evaluation.
   
 # Repository Structure
-SmartSuggest
+SmartSuggest\
 ├── SmartSuggest.ipynb             # Main pipeline integrating all features and metrics\
 ├── SVD_and_HitRatio.ipynb         # SVD implementation and Hit Ratio evaluation\
 ├── reliability_scores.csv         # Precomputed reliability scores per user\
