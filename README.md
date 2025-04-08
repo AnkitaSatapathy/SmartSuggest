@@ -35,16 +35,16 @@ SmartSuggest\
 
 # Features
 1. Hybrid Recommendation Model combining:
-	- Collaborative Filtering (SVD)
-	- Trust-aware and influence-aware metrics
+- Collaborative Filtering (SVD)
+- Trust-aware and influence-aware metrics
 2. User Reliability Estimation
-	- Based on consistency and helpfulness of reviews
+- Based on consistency and helpfulness of reviews
 3. Clustering Coefficients
-	- Captures user connectivity in the review network
+- Captures user connectivity in the review network
 4. Review Helpfulness Analysis
-	- Weighs reviews based on perceived value
+- Weighs reviews based on perceived value
 5. Performance Evaluation
-	- Using Hit Ratio to validate top-N recommendation accuracy
+- Using Hit Ratio to validate top-N recommendation accuracy
 
 
 
