@@ -7,11 +7,11 @@ Traditional collaborative filtering methods overlook user trust and the contextu
 # Dataset used 
 We’ve used the amazon data: https://jmcauley.ucsd.edu/data/amazon/index_2014.html, where we focused mainly on “Cell Phones and Accessories”. We divided the dataset and worked on it individually in the following manner : 
 	1-188073 :  Anisha Mishare 
-  188074 -376147 : Ankita Satapathy
-  376148- 564221 : Asipu Khitesha
-  564222-752295 : Barsha Baibhabi
-  752296 - 940369 : Barsha Sahoo 
-  940370- 1128437 : Vanshika Raghuvanshi
+  	188074 -376147 : Ankita Satapathy
+  	376148- 564221 : Asipu Khitesha
+  	564222-752295 : Barsha Baibhabi
+  	752296 - 940369 : Barsha Sahoo 
+  	940370- 1128437 : Vanshika Raghuvanshi
   
 # Requirements
 Ensure the following libraries are available:
