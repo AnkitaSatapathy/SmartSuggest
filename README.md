@@ -10,8 +10,8 @@ We’ve used the amazon data: https://jmcauley.ucsd.edu/data/amazon/index_2014.h
   	188074 -376147 : Ankita Satapathy\
   	376148- 564221 : Asipu Khitesha\
   	564222-752295 : Barsha Baibhabi\
-  	752296 - 940369 : Barsha Sahoo\ 
-  	940370- 1128437 : Vanshika Raghuvanshi\
+  	752296 - 940369 : Barsha Sahoo\
+  	940370- 1128437 : Vanshika Raghuvanshi
   
 # Requirements
 Ensure the following libraries are available:
@@ -31,7 +31,7 @@ SmartSuggest
 ├── SVD_and_HitRatio.ipynb         # SVD implementation and Hit Ratio evaluation\
 ├── reliability_scores.csv         # Precomputed reliability scores per user\
 ├── final_scores1.csv              # Has final score calculation based on clustering coefficient and the reliability scores\
-├── README.md                      # This file\
+├── README.md                      # This file
 
 # Features
 1. Hybrid Recommendation Model combining:
